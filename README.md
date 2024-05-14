@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhantanir&label=Profile%20views&color=ff0000&style=plastic" alt="batuhantanir" /> </p>
 <p align="left">My name is Batuhan and I'm a Full Stack Web & Mobile Developer, from Türkiye</p>
 
 ###

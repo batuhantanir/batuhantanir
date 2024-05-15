@@ -8,7 +8,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <a  href="https://www.credly.com/badges/7d3e2867-5c58-4058-8cf5-9b0f8ec48f0d" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/9254c205-669b-4ce8-8a3b-f4a8a66ebaec/image.png" height="100" alt="linkedin logo"  />
   </a>

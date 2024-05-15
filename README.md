@@ -1,8 +1,18 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhantanir&label=Profile%20views&color=ff0000&style=plastic" alt="batuhantanir" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=batuhantanir&label=Profile%20views&color=ff0000&style=plastic" alt="batuhantanir" /> </p>
 <p align="left">My name is Batuhan and I'm a Full Stack Web & Mobile Developer, from Türkiye</p>
+
+
+
+###
+
+<div align="right">
+  <a  href="https://www.credly.com/badges/7d3e2867-5c58-4058-8cf5-9b0f8ec48f0d" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/9254c205-669b-4ce8-8a3b-f4a8a66ebaec/image.png" height="100" alt="linkedin logo"  />
+  </a>
+</p>
 
 ###
 

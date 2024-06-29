@@ -12,6 +12,13 @@
   <a  href="https://www.credly.com/badges/7d3e2867-5c58-4058-8cf5-9b0f8ec48f0d" target="_blank">
     <img src="https://i.hizliresim.com/mimqqqd.png" height="100" alt="aws badge"  />
   </a>
+  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/libftm.png" height="100" alt="Libft"  />
+  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/born2beroote.png" height="100" alt="Born 2 Be Root"  />
+  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/ft_printfe.png" height="100" alt="aws badge"  />
+  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/get_next_linem.png" height="100" alt="aws badge"  />
+  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/minitalke.png" height="100" alt="aws badge"  />
+  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/push_swapm.png" height="100" alt="aws badge"  />
+  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/so_longe.png" height="100" alt="aws badge"  />
 </p>
 
 ###

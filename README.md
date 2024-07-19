@@ -20,8 +20,12 @@
   <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/ft_printfe.png" height="100" alt="aws badge"  />
   <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/get_next_linem.png" height="100" alt="aws badge"  />
   <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/minitalke.png" height="100" alt="aws badge"  />
-  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/push_swapm.png" height="100" alt="aws badge"  />
-  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/so_longe.png" height="100" alt="aws badge"  />
+  <a  href="https://github.com/batuhantanir/push_swap" target="_blank">
+    <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/push_swapm.png" height="100" alt="aws badge"  />
+  </a>
+  <a  href="https://github.com/batuhantanir/So_Long" target="_blank">
+    <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/so_longe.png" height="100" alt="aws badge"  />
+  </a>
 </p>
 
 ###

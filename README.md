@@ -9,6 +9,9 @@
 ###
 
 <div align="left">
+  <a  href="https://www.credly.com/badges/c5917a86-3924-456b-8087-04553f2de5b9/public_url" target="_blank" align="center" >
+    <img src="https://i.hizliresim.com/hjyjpgv.png" height="92" alt="meta frontend badge"  />
+  </a>
   <a  href="https://www.credly.com/badges/7d3e2867-5c58-4058-8cf5-9b0f8ec48f0d" target="_blank">
     <img src="https://i.hizliresim.com/mimqqqd.png" height="100" alt="aws badge"  />
   </a>

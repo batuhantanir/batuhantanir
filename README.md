@@ -17,14 +17,17 @@
   </a>
   <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/libftm.png" height="100" alt="Libft"  />
   <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/born2beroote.png" height="100" alt="Born 2 Be Root"  />
-  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/ft_printfe.png" height="100" alt="aws badge"  />
-  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/get_next_linem.png" height="100" alt="aws badge"  />
-  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/minitalke.png" height="100" alt="aws badge"  />
+  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/ft_printfe.png" height="100" alt="ft_printf"  />
+  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/get_next_linem.png" height="100" alt="get next line"  />
+  <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/minitalke.png" height="100" alt="minitalk"  />
   <a  href="https://github.com/batuhantanir/push_swap" target="_blank">
-    <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/push_swapm.png" height="100" alt="aws badge"  />
+    <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/push_swapm.png" height="100" alt="push_swap"  />
   </a>
   <a  href="https://github.com/batuhantanir/So_Long" target="_blank">
-    <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/so_longe.png" height="100" alt="aws badge"  />
+    <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/so_longe.png" height="100" alt="so_long"  />
+  </a>
+   <a  href="https://github.com/batuhantanir/So_Long" target="_blank">
+    <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/minishellm.png" height="100" alt="so_long"  />
   </a>
 </p>
 

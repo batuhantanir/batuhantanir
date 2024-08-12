@@ -29,6 +29,9 @@
    <a  href="https://github.com/batuhantanir/So_Long" target="_blank">
     <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/minishellm.png" height="100" alt="so_long"  />
   </a>
+  <a  href="https://github.com/batuhantanir/philosophers" target="_blank">
+    <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/philosopherse.png" height="100" alt="so_long"  />
+  </a>
 </p>
 
 ###

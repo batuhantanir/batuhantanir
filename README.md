@@ -26,11 +26,14 @@
   <a  href="https://github.com/batuhantanir/So_Long" target="_blank">
     <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/so_longe.png" height="100" alt="so_long"  />
   </a>
-   <a  href="https://github.com/batuhantanir/So_Long" target="_blank">
-    <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/minishellm.png" height="100" alt="so_long"  />
+   <a  href="https://github.com/batuhantanir/MiniShell" target="_blank">
+    <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/minishellm.png" height="100" alt="Minishell"  />
   </a>
   <a  href="https://github.com/batuhantanir/philosophers" target="_blank">
-    <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/philosopherse.png" height="100" alt="so_long"  />
+    <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/philosopherse.png" height="100" alt="philosophers"  />
+  </a>
+   <a  href="https://github.com/batuhantanir/netpractice" target="_blank">
+    <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/netpracticem.png" height="100" alt="netpractice"  />
   </a>
 </p>
 

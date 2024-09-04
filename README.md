@@ -35,7 +35,7 @@
    <a  href="https://github.com/batuhantanir/netpractice" target="_blank">
     <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/netpracticem.png" height="100" alt="netpractice"  />
   </a>
-  <a  href="https://github.com/batuhantanir/netpractice" target="_blank">
+  <a  href="https://github.com/batuhantanir/cub3d" target="_blank">
     <img src="https://raw.githubusercontent.com/batuhantanir/batuhantanir/main/badges/cub3de.png" height="100" alt="netpractice"  />
   </a>
 </p>
